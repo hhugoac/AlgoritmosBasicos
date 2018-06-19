@@ -1,4 +1,4 @@
-//package com.Ejercicio06.main;
+package com.Ejercicio06.main;
 
 public class AppFactorial {
 	static int factorial(int iNum) 
